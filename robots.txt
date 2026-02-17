@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maplegroveplumbingco.com/sitemap.xml
